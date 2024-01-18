@@ -1,0 +1,36 @@
+[33mcommit 3c63982eeb2e94f9391b9894f485ec12dc14722f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: cdd477a b501c49
+Author: jarek <48630736+wassupiari@users.noreply.github.com>
+Date:   Sun Jan 14 19:27:51 2024 +0100
+
+    Merge branch 'main' of https://github.com/wassupiari/date2color
+
+[33mcommit cdd477a447e6841401d09a136261c0115454573f[m
+Author: jarek <48630736+wassupiari@users.noreply.github.com>
+Date:   Sun Jan 14 19:20:56 2024 +0100
+
+    Made a date check
+
+[33mcommit b501c49445ddb507cef7f04834bf42e66e1818bc[m
+Author: jarek <48630736+wassupiari@users.noreply.github.com>
+Date:   Sun Jan 14 19:20:56 2024 +0100
+
+    Made a control for data
+
+[33mcommit 4b9a1096716fae67b37ea84a761ab32758373ea7[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: nick747 <84738664+mariomicco@users.noreply.github.com>
+Date:   Fri Oct 7 15:43:50 2022 +0200
+
+    Create main.js
+
+[33mcommit b5c908b7784894081df20e22d4c9977d33d10748[m
+Author: nick747 <84738664+mariomicco@users.noreply.github.com>
+Date:   Fri Oct 7 15:43:28 2022 +0200
+
+    Create style.css
+
+[33mcommit 9fcd5f40412f31712ee99dd7c8f7551ff7f79c1b[m
+Author: nick747 <84738664+mariomicco@users.noreply.github.com>
+Date:   Fri Oct 7 15:42:46 2022 +0200
+
+    Created index.html
